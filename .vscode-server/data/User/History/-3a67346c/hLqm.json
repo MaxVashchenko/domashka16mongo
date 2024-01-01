@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.startupEditor": "none",
+    "workbench.editorAssociations": {
+        "*.yml": "default"
+    },
+    "terminal.integrated.enableMultiLinePasteWarning": false
+}
